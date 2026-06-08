@@ -1,4 +1,4 @@
-package core.domain.model;
+package com.sistema.atendimento.core.domain.model;
 
 import jakarta.persistence.*;
 import org.hibernate.annotations.TenantId;
