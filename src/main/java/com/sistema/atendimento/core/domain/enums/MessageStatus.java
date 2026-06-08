@@ -1,4 +1,4 @@
-package core.domain.enums;
+package com.sistema.atendimento.core.domain.enums;
 
 public enum MessageStatus {
     RECEIVED,
